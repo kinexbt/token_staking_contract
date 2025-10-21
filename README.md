@@ -5,7 +5,7 @@ Token staking smart contract on solana. It supports multi-staking pool creation,
 ### Ready to use 
 ```bash
 # Clone the repository
-git clone https://github.com/cutupdev/Solana-Token-Staking-Smart-Contract.git
+git clone https://github.com/kinexbt/token-staking-contract.git
 
 # Navigate to project directory
 cd Solana-Token-Staking-Smart-Contract
@@ -33,6 +33,5 @@ yarn script ...
 D2dTLQp2w485kQDwDvngfDo2GV1r7DdeGgYWxjAaDkPv
 
 ### Contact
-- Telegram: https://t.me/DevCutup
-- Whatsapp: https://wa.me/13137423660
-- Twitter: https://x.com/devcutup
+- Telegram: https://t.me/kinexbt
+- Twitter: https://x.com/kinexbt
